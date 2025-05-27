@@ -1,4 +1,4 @@
-name: Build Image Docker & Deploy VPS
+name: Build Image Docker & Deploy ke VPS
 
 on:
   push:
