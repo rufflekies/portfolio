@@ -4,3 +4,8 @@ Dockerfile
 docker-compose.yml
 *.log
 .git
+.gitignore
+.env
+.env.local
+.env.development
+.env.production
