@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://rufflekies.my.id
+
+# Sitemaps
+Sitemap: https://rufflekies.my.id/sitemap.xml
